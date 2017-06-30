@@ -2,6 +2,11 @@
 
 > Students will fork this repository and clone it. Upon completion, push (sync/publish) all of your changes after committing them.
 
+## Reading from [Learn HTML & CSS](http://learn.shayhowe.com/html-css)
+
+- [Chapter 4: Opening the Box Model](http://learn.shayhowe.com/html-css/opening-the-box-model/)
+- [Chapter 5: Opening the Box Model](http://learn.shayhowe.com/html-css/positioning-content/)
+
 
 ### Description
 
